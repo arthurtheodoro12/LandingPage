@@ -6,6 +6,7 @@ Conceitos novos aprendidos nesse projeto:
 
 - Tags Semânticas HTML
 - Flexbox CSS
+- Hover
 - Ferramenta de desenvolvimento DevTools
 - Refatoração de código, almejando a melhoria na acessibilidade
 - Estilização de um botão
